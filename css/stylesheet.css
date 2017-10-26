@@ -1,0 +1,86 @@
+/*This stylesheet is a property of Rahul Shahare*/
+h1 {
+    background: #09f;
+    text-align: center;
+    color: #fff;
+    padding: 200px 0px;
+    padding-bottom: 250px;
+    font-size: 100px;
+    margin: 0px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+p.aim {
+    text-align: left;
+    color: #0000009e;
+    font-size: 42px;
+    /* background: #09f; */
+    margin: 0px;
+    padding: 200px 0px;
+    padding-left: 10px;
+}
+
+p.NewText {
+    background: #000;
+    margin: 0px;
+    text-align: right;
+    font-size: 42px;
+    padding: 200px 0px;
+    color: #fff;
+    padding-right: 20px;
+}
+
+p.NewText a {
+    text-decoration: none;
+}
+
+p.aim a {
+    text-decoration: none;
+}
+
+dl {
+    background: #0099ff1c;
+    margin: 0px;
+    padding: 50px;
+}
+
+dt {
+    background: #0099ffc9;
+    padding: 20px;
+    color: #fff;
+    box-shadow: 1px 1px 2px #000;
+}
+
+dt a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+dd {
+    background: #0099ff7a;
+    padding: 20px;
+    border-left: 10px solid #30adff;
+    /* box-shadow: 1px 1px 2px #000; */
+}
+
+dd a {
+    text-decoration: none;
+}
+
+dd a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    font-size: 12px;
+    background: #000;
+    color: #fff;
+    padding: 2px;
+}
